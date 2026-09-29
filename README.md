@@ -47,3 +47,19 @@ The dashboard transforms economic data into clear and interactive visual insight
 ## 👩‍💻 About the Project
 
 This project was developed as part of my data analytics learning journey, combining my background in Economics with practical data analysis and visualisation skills.
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](01-executive-overview.png)
+
+### Inflation Drivers
+![Inflation Drivers](02-inflation-drivers.png)
+
+### Middle-Class Impact
+![Middle-Class Impact](03-middle-class-impact.png)
+
+### Purchasing Power
+![Purchasing Power](04-purchasing-power.png)
+
+### Key Insights
+![Key Insights](05-key-insights.png)
