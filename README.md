@@ -63,3 +63,6 @@ This project was developed as part of my data analytics learning journey, combin
 
 ### Key Insights
 ![Key Insights](05-key-insights.png)
+## 📸 Dashboard Preview
+
+![Inflation Pulse Dashboard](image.png)
